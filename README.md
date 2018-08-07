@@ -11,6 +11,8 @@ We developed code in SAS (Macros) to implement standard neural network with one 
 
 ## Applications and Benefits of My Algorithm
  1) The nuts and bolts of Neural Networks has been shown
- 2) No such algorithm exist in Base SAS using Macros
+ 2) No such algorithm exist in Base SAS  so far using Macros
  3) This algorithm is beneficial for companies using Base SAS
+ 
+ We are going to present this paper in SESUG 2018 Florida conference.
 

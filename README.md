@@ -14,5 +14,5 @@ We developed code in SAS (Macros) to implement standard neural network with one 
  2) No such algorithm exist in Base SAS  so far using Macros
  3) This algorithm is beneficial for companies using Base SAS
  
- We are going to present this paper in SESUG 2018 Florida conference.
+ We are going to present this paper in SESUG 2018  St.Pete Beach, FL October 14-17 conference.
 
